@@ -16,10 +16,10 @@ Welcome to my GitHub profile! Here you'll find my projects and contributions to 
 - [Leetcode](https://leetcode.com/u/cvignesh404/)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Alien501&show_icons=true&theme=radical)
 
 ## 📈 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alien501&layout=compact&theme=radical)
 
 ## 🚀 Fun Facts
 - I love coding and coffee.
