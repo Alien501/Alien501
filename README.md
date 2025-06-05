@@ -71,6 +71,9 @@ Welcome to my GitHub profile! Here you'll find my projects and contributions to 
   <img src="https://github.com/Alien501/Alien501/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
+## 🎵 Listening To
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3175hisspgxdkndtrkqx4hmwhtuu&cover_image=true&theme=novatorem&show_offline=true&background_color=1f1f1f&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 ## 🚀 Fun Facts
 
 - 💻 I love coding and ☕ coffee.
